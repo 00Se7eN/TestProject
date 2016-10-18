@@ -5,7 +5,7 @@
 // Program ID       :   EX00103
 // Description      :   Display Hello World (WRITE/READ)
 // Author           :   Ramesh Joshi
-// Date written     :   26.03.2004
+// Date written     :   March 26, 2004
 // Based On Pgm     :
 // Reviewer         :
 // Date Reviewed    :
